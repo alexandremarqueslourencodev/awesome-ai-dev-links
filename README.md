@@ -31,6 +31,9 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [ponytail](https://github.com/dietrichgebert/ponytail) — faz o agente pensar como o dev sênior mais preguiçoso.
 - [rea](https://github.com/morluto/rea) — engenharia reversa de qualquer coisa com agentes.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) — skills que dão "bom gosto" a agentes de código.
+- [agency-agents](https://github.com/msitarzewski/agency-agents) — agência de IA completa, com agentes especializados.
+- [openhands](https://github.com/OpenHands/openhands) — desenvolvimento dirigido por IA (OpenHands).
+- [MiroFish](https://github.com/666ghj/MiroFish) — motor universal de inteligência de enxame, prevê qualquer coisa.
 
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
@@ -42,6 +45,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [magnitude](https://github.com/magnitudedev/magnitude) — motor de inferência open-source, até 2x mais rápido que Ollama.
 - [openscience](https://github.com/synthetic-sciences/openscience) — workbench de IA open-source para pesquisa científica.
 - [harness2](https://github.com/google-research/harness2) — Google harness (pesquisa).
+- [omniroute](https://github.com/ChrisCompton/omniroute) — gateway de IA multi-provedor com roteamento inteligente.
+- [higgsfield](https://github.com/higgsfield-ai/higgsfield) — orquestração de GPU tolerante a falhas e framework de ML.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -60,6 +65,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [LatentSync](https://github.com/bytedance/LatentSync) — lip sync com Stable Diffusion.
 - [PromptMotion](https://github.com/crizmo/PromptMotion) — animações frame a frame a partir de descrições de roteiro.
 - [fframes](https://github.com/dmtrKovalenko/fframes) — frames de vídeo.
+- [hyperframes](https://github.com/heygen-com/hyperframes) — escreva HTML, renderize vídeo, feito para agentes.
 
 ## 🖼️ Imagem
 - [Upscayl](https://github.com/upscayl/upscayl) — upscaling de imagens com IA.
@@ -73,6 +79,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [open-notebook](https://github.com/lfnovo/open-notebook) — notebook aberto.
 - [book-to-skill](https://github.com/virgiliojr94/book-to-skill) — transforma livros em skills.
 - [OpenTerminal](https://github.com/open-webui/open-terminal) — terminal aberto.
+- [openwiki](https://github.com/langchain-ai/openwiki) — CLI que escreve e mantém documentação de agentes para seu código.
+- [awesome-design-md](https://github.com/voltagent/awesome-design-md) — coleção de DESIGN.md de sistemas de design para agentes.
 
 ## 🛠️ Ferramentas & Utilitários
 - [harness](https://github.com/harness/harness) — plataforma de CI/CD.
@@ -86,6 +94,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [erpnext](https://github.com/frappe/erpnext) — ERP open-source.
 - [imozuru](https://github.com/MaryCache/imozuru) — (verificar contexto).
 - [foxprofile](https://github.com/chienbm98/foxprofile) — perfil/gerenciamento.
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — suíte Office para agentes lerem/editarem Word, Excel e PowerPoint.
+- [matte-genny](https://delphi.tools/tools/matte-genny) — ferramenta da Delphi (external).
 
 ---
 
