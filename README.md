@@ -34,6 +34,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [agency-agents](https://github.com/msitarzewski/agency-agents) — agência de IA completa, com agentes especializados.
 - [openhands](https://github.com/OpenHands/openhands) — desenvolvimento dirigido por IA (OpenHands).
 - [MiroFish](https://github.com/666ghj/MiroFish) — motor universal de inteligência de enxame, prevê qualquer coisa.
+- [laya](https://github.com/NandhaKishorM/laya) — motor de decisão não-autorregressivo (System 1), 100+ idiomas.
+- [kimi-code](https://github.com/MoonshotAI/kimi-code) — Kimi Code CLI, ponto de partida para agentes de nova geração.
 
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
@@ -96,6 +98,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [foxprofile](https://github.com/chienbm98/foxprofile) — perfil/gerenciamento.
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — suíte Office para agentes lerem/editarem Word, Excel e PowerPoint.
 - [matte-genny](https://delphi.tools/tools/matte-genny) — ferramenta da Delphi (external).
+- [turbo.ai](https://www.turbo.ai/) — (external).
 
 ---
 
