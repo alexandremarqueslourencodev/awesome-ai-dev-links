@@ -36,6 +36,11 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [MiroFish](https://github.com/666ghj/MiroFish) — motor universal de inteligência de enxame, prevê qualquer coisa.
 - [laya](https://github.com/NandhaKishorM/laya) — motor de decisão não-autorregressivo (System 1), 100+ idiomas.
 - [kimi-code](https://github.com/MoonshotAI/kimi-code) — Kimi Code CLI, ponto de partida para agentes de nova geração.
+- [artemis](https://github.com/google/artemis) — automação Android por linguagem natural (Google), 99%+ no benchmark.
+- [pentagi](https://github.com/vxcontrol/pentagi) — agentes de IA autônomos para pentesting.
+- [talorys](https://github.com/rociiu/talorys) — agente pessoal de IA na sua conta Cloudflare.
+- [obscura](https://github.com/h4ckf0r0day/obscura) — navegador headless para agentes de IA e scraping.
+- [anatomy](https://github.com/wheresryan22/anatomy) — skill de agente para ilustrações isométricas de máquinas/sistemas.
 
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
@@ -49,6 +54,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [harness2](https://github.com/google-research/harness2) — Google harness (pesquisa).
 - [omniroute](https://github.com/ChrisCompton/omniroute) — gateway de IA multi-provedor com roteamento inteligente.
 - [higgsfield](https://github.com/higgsfield-ai/higgsfield) — orquestração de GPU tolerante a falhas e framework de ML.
+- [Soup](https://github.com/MakazhanAlpamys/Soup) — fine-tune de LLMs a partir de um YAML, treina 8B em GPU de 4 GB.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -68,6 +74,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [PromptMotion](https://github.com/crizmo/PromptMotion) — animações frame a frame a partir de descrições de roteiro.
 - [fframes](https://github.com/dmtrKovalenko/fframes) — frames de vídeo.
 - [hyperframes](https://github.com/heygen-com/hyperframes) — escreva HTML, renderize vídeo, feito para agentes.
+- [dramaclaw](https://github.com/dramaclaw/dramaclaw) — motor AIGC de vídeo: do roteiro ao filme em uma pipeline.
+- [OpenMontage](https://github.com/calesthio/OpenMontage) — sistema agêntico de produção de vídeo open-source.
 
 ## 🖼️ Imagem
 - [Upscayl](https://github.com/upscayl/upscayl) — upscaling de imagens com IA.
@@ -83,6 +91,9 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [OpenTerminal](https://github.com/open-webui/open-terminal) — terminal aberto.
 - [openwiki](https://github.com/langchain-ai/openwiki) — CLI que escreve e mantém documentação de agentes para seu código.
 - [awesome-design-md](https://github.com/voltagent/awesome-design-md) — coleção de DESIGN.md de sistemas de design para agentes.
+- [xerj](https://github.com/xerj-org/xerj) — motor de busca local-first e MCP server para agentes (BM25 + vetorial + híbrido).
+- [ai-learning](https://github.com/MEClouds/ai-learning) — plataforma de aprendizado.
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — do vibe coding à engenharia agêntica.
 
 ## 🛠️ Ferramentas & Utilitários
 - [harness](https://github.com/harness/harness) — plataforma de CI/CD.
@@ -99,10 +110,52 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) — suíte Office para agentes lerem/editarem Word, Excel e PowerPoint.
 - [matte-genny](https://delphi.tools/tools/matte-genny) — ferramenta da Delphi (external).
 - [turbo.ai](https://www.turbo.ai/) — (external).
+- [wordcraft](https://github.com/storytold/wordcraft) — reimplementação open-source do Microsoft Word em Rust puro.
+- [OpenTerminal (trading)](https://github.com/ErTasselli/OpenTerminal) — dashboard de trading estilo terminal, dados públicos.
+- [solidcraft](https://github.com/tangency-labs/solidcraft) — CAD 3D paramétrico open-source em Rust.
+- [Concat](https://github.com/jub0t/Concat) — substituto do CapCut, livre, local-first, scriptável via MCP.
+- [infrakit](https://github.com/linsun/infrakit) — toolkit para infraestrutura declarativa e self-healing.
+- [personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex (NVIDIA).
+- [gumroad](https://github.com/antiwork/gumroad) — "veja o que cola" (antiwork).
+
+---
+
+## 🔄 Alternativas open-source (substitua serviços pagos)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) no lugar do YouTube Premium.
+- [Ollama](https://github.com/ollama/ollama) no lugar da cobrança por token.
+- [Fooocus](https://github.com/lllyasviel/Fooocus) no lugar do Midjourney.
+- [Whisper](https://github.com/openai/whisper) no lugar da transcrição paga.
+- [Plausible](https://github.com/plausible/analytics) no lugar do Google Analytics.
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) no lugar do Notion.
+- [Penpot](https://github.com/penpot/penpot) no lugar do Figma.
+- [n8n](https://github.com/n8n-io/n8n) no lugar do Zapier.
+- [Cal.com](https://github.com/calcom/cal.com) no lugar do Calendly.
+- [Bitwarden](https://github.com/bitwarden/server) no lugar do 1Password.
+
+## 🔒 Privacidade & Self-hosted
+- [Cobalt](https://github.com/imputnet/cobalt) — baixar mídia de vídeos.
+- [SearXNG](https://github.com/searxng/searxng) — busca com privacidade.
+- [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) — montar currículo.
+- [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) — monitorar mudanças em sites.
+- [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) — ler mangá no seu servidor.
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — traduzir com privacidade.
+- [gallery-dl](https://github.com/mikf/gallery-dl) — baixar galerias inteiras.
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) — salvar sites para sempre.
+- [LocalSend](https://github.com/localsend/localsend) — enviar arquivos entre aparelhos.
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) — hospedar seu gerenciador de senhas.
+
+## 🌍 Ferramentas externas (links)
+- [OpenRouter](https://openrouter.ai/) — gateway de modelos de IA.
+- [Coze](https://www.coze.com/) — plataforma de bots de IA.
+- [Google Trends TV](https://trends.google.com/tv/?geo=BR&rows=5&cols=5) — tendências de TV.
+- [Adobe Podcast](https://podcast.adobe.com/en) — ferramentas de áudio/IA.
+- [Infography](https://app.infography.in/automation) — automação de infográficos.
+- [Gozen Content](https://app.content.gozen.io/keywords) — palavras-chave de conteúdo.
+- [Napkin AI](https://app.napkin.ai/signin) — gerador de visuais/IA.
 
 ---
 
 ## ⚠️ Não identificados (sem repositório confiável)
-Iflixai, Orcaide, agente reach, open generativa ai, automation ia que sobrevive, oss scaner, lllm sem filtro censura, Open montagem, Presentinho, Postos, Filé, Helixfoundry, Solidglass, Carrerops, Doeu, Img2interior, Duas.
+Iflixai, Orcaide, agente reach, open generativa ai, automation ia que sobrevive, oss scaner, lllm sem filtro censura, Presentinho, Postos, Filé, Helixfoundry, Solidglass, Carrerops, Doeu, Img2interior, Duas.
 
 > Gerado automaticamente a partir de uma lista de nomes. Links "verificar contexto" precisam de confirmação manual.
