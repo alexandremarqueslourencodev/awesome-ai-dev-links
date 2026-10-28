@@ -59,6 +59,17 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [ECC](https://github.com/affaan-m/ECC) — otimização de harness de agente: skills, instintos, memória e segurança.
 - [lobehub](https://github.com/lobehub/lobehub) — operador-chefe de agentes, organiza sua equipe de IA em operações 24/7.
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) — desktop local-first para agentes de código (Electron + Rust + plugins).
+- [agent-reach](https://github.com/Panniantong/agent-reach) — dê "olhos" ao seu agente: lê/busca Twitter, Reddit, YouTube, GitHub e mais, um CLI, zero taxas de API.
+- [ruflo](https://github.com/ruvnet/ruflo) — harness original de agentes: swarms multi-player, fluxos autônomos, memória adaptativa e RAG vetorial.
+- [pinrule](https://github.com/jhaizhou-ops/pinrule) — framework universal de regras de comportamento de IA (mantém o agente sem "drift" em tarefas longas).
+- [awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) — diretório de skills, plugins, memória e guias do Hermes Agent.
+- [hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution) — auto-melhoria evolutiva do Hermes (otimiza skills, prompts e código com DSPy + GEPA).
+- [hermes-code-bridge](https://github.com/xuyang-liu16/hermes-code-bridge) — usa o Hermes Agent como plano de controle para Codex, Kimi Code, Claude Code, OpenCode e Gemini CLI.
+- [automaton](https://github.com/Conway-Research/automaton) — IA que "ganha a própria existência", replica e evolui sem humano.
+- [shannon](https://github.com/KeygraphHQ/shannon) — pentester de IA para web apps e APIs: analisa código, acha vetores de ataque e executa exploits reais.
+- [browser-use](https://github.com/browser-use/browser-use) — agente que navega pelo seu navegador (núcleo do projeto).
+- [langflow](https://github.com/langflow-ai/langflow) — monte agentes arrastando blocos (visual, low-code).
+- [dify](https://github.com/langgenius/dify) — plataforma para criar apps de IA prontos para produção.
 
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
@@ -74,6 +85,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [higgsfield](https://github.com/higgsfield-ai/higgsfield) — orquestração de GPU tolerante a falhas e framework de ML.
 - [Soup](https://github.com/MakazhanAlpamys/Soup) — fine-tune de LLMs a partir de um YAML, treina 8B em GPU de 4 GB.
 - [experiential](https://github.com/experientiallabs/experiential) — gateway open-source BYOK/self-hosted para 1000+ modelos, aprende com o tráfego para cortar custos.
+- [llmtrim](https://github.com/fkiene/llmtrim) — proxy local que comprime requests de LLM (-31% entrada / -74% saída) para você pagar menos, sem mudar as respostas.
+- [crawl4ai](https://github.com/unclecode/crawl4ai) — transforma sites em dados prontos para seu LLM.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -96,6 +109,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) — motor AIGC de vídeo: do roteiro ao filme em uma pipeline.
 - [OpenMontage](https://github.com/calesthio/OpenMontage) — sistema agêntico de produção de vídeo open-source.
 - [Drift](https://github.com/CutWire-Studios/Drift) — editor de vídeo desktop gratuito e open-source (Qt 6 + FFmpeg).
+- [VideoRAG](https://github.com/HKUDS/VideoRAG) — converse com seus vídeos (VideoRAG, KDD 2026).
 
 ## 🖼️ Imagem
 - [Upscayl](https://github.com/upscayl/upscayl) — upscaling de imagens com IA.
@@ -140,6 +154,12 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [files](https://github.com/files-community/files) — gerenciador de arquivos moderno (Windows).
 - [fleetbase](https://github.com/fleetbase/fleetbase) — sistema operacional de logística e cadeia de suprimentos.
 - [panalume](https://github.com/leacho73/panalume) — dashboard glassy e drag-and-drop para Home Assistant.
+- [flectar mail](https://github.com/flectar/mail) — cliente de e-mail rápido, nativo e leve (~80 MB de RAM).
+- [open-code-review](https://github.com/alibaba/open-code-review) — revisão de código híbrida (pipelines determinísticos + agente LLM), em escala Alibaba.
+- [bolt.new](https://github.com/stackblitz/bolt.new) — prompt, rode, edite e publique apps web full-stack.
+- [RunAsDate](https://github.com/sultonainunn/RunAsDate) — execute programas com uma data/relógio específicos (Windows).
+- [maxun](https://github.com/getmaxun/maxun) — raspe sites sem programar.
+- [supabase](https://github.com/supabase/supabase) — banco, login e armazenamento (backend open-source).
 
 ## 🔌 MCP & Plugins
 - [official-mcp-servers](https://github.com/VoltAgent/official-mcp-servers) — diretório com 390+ servidores MCP oficiais, sem forks não-oficiais.
@@ -177,6 +197,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) — salvar sites para sempre.
 - [LocalSend](https://github.com/localsend/localsend) — enviar arquivos entre aparelhos.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) — hospedar seu gerenciador de senhas.
+- [Coolify](https://github.com/coollabsio/coolify) — publique seus apps no seu próprio servidor.
+- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — edite PDFs sem mandar para ninguém.
 
 ## 🌍 Ferramentas externas (links)
 - [OpenRouter](https://openrouter.ai/) — gateway de modelos de IA.
@@ -188,10 +210,12 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Napkin AI](https://app.napkin.ai/signin) — gerador de visuais/IA.
 - [Warracker](https://www.opensourceprojects.dev/post/warracker) — projeto open-source (external).
 - [Tópico: Voice Assistant](https://github.com/topics/voice-assistant) — lista de repositórios de assistentes de voz no GitHub.
+- [STORM (Stanford)](https://storm.genie.stanford.edu/) — gerador de relatórios de pesquisa a partir de fontes da web.
+- [Geelark](https://www.geelark.com/) — (external).
 
 ---
 
 ## ⚠️ Não identificados (sem repositório confiável)
-Iflixai, Orcaide, agente reach, open generativa ai, automation ia que sobrevive, oss scaner, lllm sem filtro censura, Presentinho, Postos, Filé, Helixfoundry, Solidglass, Carrerops, Doeu, Img2interior, Duas.
+Iflixai, Orcaide, agente reach, open generativa ai, automation ia que sobrevive, oss scaner, lllm sem filtro censura, Presentinho, Postos, Filé, Helixfoundry, Solidglass, Carrerops, Doeu, Img2interior, Duas, Orca (roda vários agentes de código em worktrees paralelas do git), CLI-Anything (transforma um programa como o GIMP em CLI com saída JSON).
 
 > Gerado automaticamente a partir de uma lista de nomes. Links "verificar contexto" precisam de confirmação manual.
