@@ -3,6 +3,7 @@
 Coleção organizada de repositórios, ferramentas e recursos — com links diretos.
 
 ## 🎓 Aprendizado & Roadmaps
+- [Prompts para desenvolver um app com IA](prompts-desenvolvimento-app.md) — os 6 documentos (PRD, TRD, fluxo, design, back-end, plano) antes de pedir um app.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — plataforma gratuita de ensino de programação.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) — roadmaps visuais para carreiras de dev.
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) — lista de tutoriais baseados em projetos.
@@ -70,6 +71,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [browser-use](https://github.com/browser-use/browser-use) — agente que navega pelo seu navegador (núcleo do projeto).
 - [langflow](https://github.com/langflow-ai/langflow) — monte agentes arrastando blocos (visual, low-code).
 - [dify](https://github.com/langgenius/dify) — plataforma para criar apps de IA prontos para produção.
+- [laya-ultrafast](https://github.com/ipenywis/laya-ultrafast) — o mesmo que jev-ultrafast, mas usando Laya.
+- [humanizer](https://github.com/blader/humanizer) — skill de agente que remove sinais de texto escrito por IA.
 
 ## 💻 Assistentes de Código (IA)
 - [Continue](https://github.com/continuedev/continue) — assistente de código que você personaliza do seu jeito.
@@ -99,6 +102,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [llmtrim](https://github.com/fkiene/llmtrim) — proxy local que comprime requests de LLM (-31% entrada / -74% saída) para você pagar menos, sem mudar as respostas.
 - [crawl4ai](https://github.com/unclecode/crawl4ai) — transforma sites em dados prontos para seu LLM.
 - [heretic](https://github.com/p-e-w/heretic) — remoção automática de censura em modelos de linguagem.
+- [laya-mlx](https://github.com/mizorewww/laya-mlx) — runtime MLX nativo para modelos de decisão tipados Laya (7–14 ms no M3 Max).
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -216,6 +220,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 ## 🛡️ Segurança & OSINT
 - [hackingtool](https://github.com/Z4nzu/hackingtool) — "tudo em um" de ferramentas de hacking.
 - [OSINT Portal](https://osintportal.com/) — portal de inteligência de fontes abertas (external).
+- [security-audit-skill](https://github.com/cloudflare/security-audit-skill) — skill de agente de código para auditorias de segurança em múltiplas fases (Cloudflare).
 
 ## 🌍 Ferramentas externas (links)
 - [OpenRouter](https://openrouter.ai/) — gateway de modelos de IA.
