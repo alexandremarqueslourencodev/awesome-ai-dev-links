@@ -73,6 +73,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [dify](https://github.com/langgenius/dify) — plataforma para criar apps de IA prontos para produção.
 - [laya-ultrafast](https://github.com/ipenywis/laya-ultrafast) — o mesmo que jev-ultrafast, mas usando Laya.
 - [humanizer](https://github.com/blader/humanizer) — skill de agente que remove sinais de texto escrito por IA.
+- [openclaw](https://github.com/openclaw/openclaw) — IA que "realmente faz coisas": qualquer SO, qualquer plataforma.
 
 ## 💻 Assistentes de Código (IA)
 - [Continue](https://github.com/continuedev/continue) — assistente de código que você personaliza do seu jeito.
@@ -103,6 +104,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [crawl4ai](https://github.com/unclecode/crawl4ai) — transforma sites em dados prontos para seu LLM.
 - [heretic](https://github.com/p-e-w/heretic) — remoção automática de censura em modelos de linguagem.
 - [laya-mlx](https://github.com/mizorewww/laya-mlx) — runtime MLX nativo para modelos de decisão tipados Laya (7–14 ms no M3 Max).
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer) — framework de inferência de alto desempenho e larga escala para modelos DeepSeek.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -133,6 +135,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [OpenDots](https://github.com/CopilotKit/OpenDots) — pontos/gráficos abertos.
 - [OpenStock](https://github.com/Open-Dev-Society/OpenStock) — imagens de stock abertas.
 - [colibri](https://github.com/JustVugg/colibri) — (verificar contexto).
+- [ComfyUI](https://github.com/comfy-org/comfyui) — GUI/API/backend modular para modelos de difusão, com interface de nós; motor de inferência local mais rápido.
 
 ## 📄 Documentos & Conhecimento
 - [PageIndex](https://github.com/VectifyAI/PageIndex) — indexação de páginas/dados.
@@ -176,6 +179,9 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [RunAsDate](https://github.com/sultonainunn/RunAsDate) — execute programas com uma data/relógio específicos (Windows).
 - [maxun](https://github.com/getmaxun/maxun) — raspe sites sem programar.
 - [supabase](https://github.com/supabase/supabase) — banco, login e armazenamento (backend open-source).
+- [FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) — bloqueador de apps para macOS com Face ID/TouchID, local e criptografado.
+- [MangoDisk](https://github.com/harry0703/MangoDisk) — limpador de disco e analisador de espaço (macOS, Windows, Linux).
+- [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) — CRM self-hosted com agentes de IA nativos + WhatsApp (WAHA), LGPD e MCP-ready.
 
 ## 🔌 MCP & Plugins
 - [official-mcp-servers](https://github.com/VoltAgent/official-mcp-servers) — diretório com 390+ servidores MCP oficiais, sem forks não-oficiais.
@@ -218,9 +224,20 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — edite PDFs sem mandar para ninguém.
 
 ## 🛡️ Segurança & OSINT
+
+### Repositórios GitHub
 - [hackingtool](https://github.com/Z4nzu/hackingtool) — "tudo em um" de ferramentas de hacking.
-- [OSINT Portal](https://osintportal.com/) — portal de inteligência de fontes abertas (external).
 - [security-audit-skill](https://github.com/cloudflare/security-audit-skill) — skill de agente de código para auditorias de segurança em múltiplas fases (Cloudflare).
+- [Sherlock](https://github.com/sherlock-project/sherlock) — caça contas em redes sociais pelo nome de usuário.
+- [Maigret](https://github.com/soxoj/maigret) — monta um dossiê de uma pessoa pelo username em 6 mil sites.
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) — automatiza checagens OSINT para inteligência de ameaças e mapeamento de superfície de ataque.
+
+### Ferramentas & Serviços (externos / sem repo)
+- [OSINT Portal](https://osintportal.com/) — portal de inteligência de fontes abertas (external).
+- [Maltego](https://www.maltego.com/) — visualiza relações entre dados (comercial).
+- Google Search Operators — encontre informação pública com operadores de busca.
+- Hashtag Research — estude discussões públicas por hashtag.
+- Google Lens / Bing Visual Search / TinEye — verifique a origem de uma imagem.
 
 ## 🌍 Ferramentas externas (links)
 - [OpenRouter](https://openrouter.ai/) — gateway de modelos de IA.
@@ -234,6 +251,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Tópico: Voice Assistant](https://github.com/topics/voice-assistant) — lista de repositórios de assistentes de voz no GitHub.
 - [STORM (Stanford)](https://storm.genie.stanford.edu/) — gerador de relatórios de pesquisa a partir de fontes da web.
 - [Geelark](https://www.geelark.com/) — (external).
+- [MonkeyCode AI](https://monkeycode-ai.net/) — (external).
 
 ---
 
