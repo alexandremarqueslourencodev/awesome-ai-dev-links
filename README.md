@@ -71,6 +71,17 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [langflow](https://github.com/langflow-ai/langflow) — monte agentes arrastando blocos (visual, low-code).
 - [dify](https://github.com/langgenius/dify) — plataforma para criar apps de IA prontos para produção.
 
+## 💻 Assistentes de Código (IA)
+- [Continue](https://github.com/continuedev/continue) — assistente de código que você personaliza do seu jeito.
+- [Cline](https://github.com/cline/cline) — agente que lê o projeto, edita arquivos e roda comandos com sua aprovação.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) — agente dentro do editor com modos para programar, planejar, tirar dúvida e corrigir erro.
+- [Aider](https://github.com/Aider-AI/aider) — programação em dupla com IA direto no terminal.
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) — pega uma issue do GitHub e devolve a solução testada.
+- [Plandex](https://github.com/plandex-ai/plandex) — quebra tarefas grandes em passos menores.
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) — transforma uma ideia descrita em texto num app funcionando.
+- [Tabby](https://github.com/TabbyML/tabby) — autocompletar com IA que roda no seu servidor (self-hosted).
+- [Goose](https://github.com/block/goose) — framework para criar agentes que usam arquivos, terminal e APIs.
+
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
 - [locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) — LLM local sem censura.
@@ -87,6 +98,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [experiential](https://github.com/experientiallabs/experiential) — gateway open-source BYOK/self-hosted para 1000+ modelos, aprende com o tráfego para cortar custos.
 - [llmtrim](https://github.com/fkiene/llmtrim) — proxy local que comprime requests de LLM (-31% entrada / -74% saída) para você pagar menos, sem mudar as respostas.
 - [crawl4ai](https://github.com/unclecode/crawl4ai) — transforma sites em dados prontos para seu LLM.
+- [heretic](https://github.com/p-e-w/heretic) — remoção automática de censura em modelos de linguagem.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -165,6 +177,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [official-mcp-servers](https://github.com/VoltAgent/official-mcp-servers) — diretório com 390+ servidores MCP oficiais, sem forks não-oficiais.
 - [plugins](https://github.com/openai/plugins) — repositório oficial de Plugins da OpenAI.
 - [teamai-cli](https://github.com/Tencent/teamai-cli) — compartilhe skills, regras, MCP e conhecimento de IA entre equipes (Tencent).
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — inteligência de código local: conecta código, docs e infraestrutura num grafo persistente com ferramentas MCP.
 
 ## 📐 Diagramas & Grafos
 - [excalidraw](https://github.com/excalidraw/excalidraw) — quadro branco virtual para diagramas desenhados à mão.
@@ -200,6 +213,10 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Coolify](https://github.com/coollabsio/coolify) — publique seus apps no seu próprio servidor.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — edite PDFs sem mandar para ninguém.
 
+## 🛡️ Segurança & OSINT
+- [hackingtool](https://github.com/Z4nzu/hackingtool) — "tudo em um" de ferramentas de hacking.
+- [OSINT Portal](https://osintportal.com/) — portal de inteligência de fontes abertas (external).
+
 ## 🌍 Ferramentas externas (links)
 - [OpenRouter](https://openrouter.ai/) — gateway de modelos de IA.
 - [Coze](https://www.coze.com/) — plataforma de bots de IA.
@@ -214,6 +231,23 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Geelark](https://www.geelark.com/) — (external).
 
 ---
+
+## 🎞️ Documentários (Hackers & Tecnologia)
+1. Hackers: Wizards of the Electronic Age (1985)
+2. In the Realm of the Hackers (2003)
+3. Hacking Democracy (2006)
+4. We Are Legion (2012)
+5. Sujeito a Termos e Condições (2013)
+6. Criado na Internet: A História de Aaron Swartz (2014)
+7. Cidadãoquatro (Citizenfour, 2014)
+8. Deep Web (2015)
+
+## 📚 Livros — Meta-aprendizagem
+- **Moonwalking with Einstein** — Joshua Foer: técnicas de memorização; memória também se treina.
+- **Trabalho Focado (Deep Work)** — Cal Newport: como sustentar concentração em tarefas exigentes.
+- **Ultralearning** — Scott Young: estratégias para aprender habilidades complexas com autonomia.
+- **Hábitos Atômicos** — James Clear: pequenas mudanças para uma rotina consistente.
+- **Direto ao Ponto (Peak)** — Anders Ericsson & Robert Pool: prática deliberada; identificar erros e corrigi-los.
 
 ## ⚠️ Não identificados (sem repositório confiável)
 Iflixai, Orcaide, agente reach, open generativa ai, automation ia que sobrevive, oss scaner, lllm sem filtro censura, Presentinho, Postos, Filé, Helixfoundry, Solidglass, Carrerops, Doeu, Img2interior, Duas, Orca (roda vários agentes de código em worktrees paralelas do git), CLI-Anything (transforma um programa como o GIMP em CLI com saída JSON).
