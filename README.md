@@ -10,6 +10,9 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) — algoritmos e estruturas de dados em JavaScript.
 - [MDN em português](https://github.com/mdn/translated-content) — documentação web da comunidade, versão pt-BR.
 - [React em português](https://github.com/reactjs/pt-br.react.dev) — documentação oficial do React em português.
+- [system-design-notes](https://github.com/liquidslr/system-design-notes) — notas do livro "System Design Interview — An Insider's Guide".
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — aprenda engenharia de IA do zero (LLMs, agents, ReAct, MCP).
+- [AI Engineering — perguntas de entrevista por empresa](https://www.opensourceprojects.dev/post/ai-engineering-interview-questions-company-wise) — questões de entrevista de IA por empresa (external).
 
 ## 🌐 APIs & Dados
 - [public-apis](https://github.com/public-apis/public-apis) — lista coletiva de APIs públicas e gratuitas.
@@ -41,6 +44,21 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [talorys](https://github.com/rociiu/talorys) — agente pessoal de IA na sua conta Cloudflare.
 - [obscura](https://github.com/h4ckf0r0day/obscura) — navegador headless para agentes de IA e scraping.
 - [anatomy](https://github.com/wheresryan22/anatomy) — skill de agente para ilustrações isométricas de máquinas/sistemas.
+- [browser-use web-ui](https://github.com/browser-use/web-ui) — rode agentes de IA direto no navegador.
+- [acu](https://github.com/trycua/acu) — lista curada de recursos sobre agentes de IA para "Computer Use".
+- [computer-agent](https://github.com/suitedaces/computer-agent) — app desktop para controlar o computador com IA (terminal, navegador, mouse e teclado).
+- [magentic-ui](https://github.com/microsoft/magentic-ui) — MagenticLite, agente experimental (Microsoft) que atua entre navegador e sistema de arquivos local.
+- [agno](https://github.com/agno-agi/agno) — plataforma de agentes que se auto-melhora.
+- [langchain](https://github.com/langchain-ai/langchain) — plataforma de engenharia de agentes.
+- [hermes-agent](https://github.com/nousresearch/hermes-agent) — o agente que cresce com você (Nous Research).
+- [langgraph](https://github.com/langchain-ai/langgraph) — construa agentes resilientes.
+- [mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) — agente de IA com ferramentas protegidas por permissão, rodando 24/7 via CLI/Telegram.
+- [thinkrail](https://github.com/JetBrains/thinkrail) — IDE leve que se adapta ao seu jeito de codar (JetBrains).
+- [overmind](https://github.com/overmind-core/overmind) — plataforma para melhorar agentes de IA continuamente.
+- [lazycodex](https://github.com/code-yeongyu/lazycodex) — harness de agente para codebases complexas (memória, planejamento, execução e verificação).
+- [ECC](https://github.com/affaan-m/ECC) — otimização de harness de agente: skills, instintos, memória e segurança.
+- [lobehub](https://github.com/lobehub/lobehub) — operador-chefe de agentes, organiza sua equipe de IA em operações 24/7.
+- [PI-Desktop](https://github.com/vastsa/PI-Desktop) — desktop local-first para agentes de código (Electron + Rust + plugins).
 
 ## 🧠 Modelos & LLMs
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Claude Code gratuito.
@@ -55,6 +73,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [omniroute](https://github.com/ChrisCompton/omniroute) — gateway de IA multi-provedor com roteamento inteligente.
 - [higgsfield](https://github.com/higgsfield-ai/higgsfield) — orquestração de GPU tolerante a falhas e framework de ML.
 - [Soup](https://github.com/MakazhanAlpamys/Soup) — fine-tune de LLMs a partir de um YAML, treina 8B em GPU de 4 GB.
+- [experiential](https://github.com/experientiallabs/experiential) — gateway open-source BYOK/self-hosted para 1000+ modelos, aprende com o tráfego para cortar custos.
 
 ## 🗣️ Voz & Áudio
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) — estúdio de voz por IA.
@@ -76,6 +95,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [hyperframes](https://github.com/heygen-com/hyperframes) — escreva HTML, renderize vídeo, feito para agentes.
 - [dramaclaw](https://github.com/dramaclaw/dramaclaw) — motor AIGC de vídeo: do roteiro ao filme em uma pipeline.
 - [OpenMontage](https://github.com/calesthio/OpenMontage) — sistema agêntico de produção de vídeo open-source.
+- [Drift](https://github.com/CutWire-Studios/Drift) — editor de vídeo desktop gratuito e open-source (Qt 6 + FFmpeg).
 
 ## 🖼️ Imagem
 - [Upscayl](https://github.com/upscayl/upscayl) — upscaling de imagens com IA.
@@ -117,6 +137,20 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [infrakit](https://github.com/linsun/infrakit) — toolkit para infraestrutura declarativa e self-healing.
 - [personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex (NVIDIA).
 - [gumroad](https://github.com/antiwork/gumroad) — "veja o que cola" (antiwork).
+- [files](https://github.com/files-community/files) — gerenciador de arquivos moderno (Windows).
+- [fleetbase](https://github.com/fleetbase/fleetbase) — sistema operacional de logística e cadeia de suprimentos.
+- [panalume](https://github.com/leacho73/panalume) — dashboard glassy e drag-and-drop para Home Assistant.
+
+## 🔌 MCP & Plugins
+- [official-mcp-servers](https://github.com/VoltAgent/official-mcp-servers) — diretório com 390+ servidores MCP oficiais, sem forks não-oficiais.
+- [plugins](https://github.com/openai/plugins) — repositório oficial de Plugins da OpenAI.
+- [teamai-cli](https://github.com/Tencent/teamai-cli) — compartilhe skills, regras, MCP e conhecimento de IA entre equipes (Tencent).
+
+## 📐 Diagramas & Grafos
+- [excalidraw](https://github.com/excalidraw/excalidraw) — quadro branco virtual para diagramas desenhados à mão.
+- [diagram-design](https://github.com/cathrynlavery/diagram-design) — diagramas editoriais bonitos para Claude Code, Codex, Copilot e Cursor (45 tipos, HTML+SVG).
+- [graphify](https://github.com/Graphify-Labs/graphify) — transforme qualquer codebase (docs, SQL, PDFs) em um knowledge graph consultável.
+- [omnigraph](https://github.com/ModernRelay/omnigraph) — banco de dados de grafos nativo em object-storage, com branching e ontologia tipada.
 
 ---
 
@@ -152,6 +186,8 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [Infography](https://app.infography.in/automation) — automação de infográficos.
 - [Gozen Content](https://app.content.gozen.io/keywords) — palavras-chave de conteúdo.
 - [Napkin AI](https://app.napkin.ai/signin) — gerador de visuais/IA.
+- [Warracker](https://www.opensourceprojects.dev/post/warracker) — projeto open-source (external).
+- [Tópico: Voice Assistant](https://github.com/topics/voice-assistant) — lista de repositórios de assistentes de voz no GitHub.
 
 ---
 
