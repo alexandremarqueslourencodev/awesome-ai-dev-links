@@ -26,6 +26,7 @@ Coleção organizada de repositórios, ferramentas e recursos — com links dire
 - [agenticSeek](https://github.com/Fosowl/agenticSeek) — agente de busca local.
 - [strix](https://github.com/usestrix/strix) — agente de segurança/automação.
 - [playwright-mcp](https://github.com/microsoft/playwright-mcp) — MCP oficial do Playwright.
+- [agent-qa](https://github.com/vostride/agent-qa) — testes de apps web, Android e iOS via CLI/MCP, com memória persistente memidex, autoaperfeiçoamento validado e evidências de execução.
 - [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — automação de navegador ultrarrápida.
 - [paperclip](https://github.com/paperclipai/paperclip) — app open-source para gerenciar agentes no trabalho.
 - [OpenCompany](https://github.com/zeenie-ai/OpenCompany) — funcionários de IA open-source (AI employees).
